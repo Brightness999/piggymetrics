@@ -17,7 +17,8 @@ blocks:
         icon: false
         link: /posts
     image:
-      src: /uploads/tina-illustration.webp
+      src: >-
+        https://res.cloudinary.com/synopsys/image/upload/v1662800154/public_bear_mb3qau.png
       alt: Tina
     color: default
     _template: hero
