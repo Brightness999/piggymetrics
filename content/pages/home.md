@@ -18,7 +18,7 @@ blocks:
         link: /posts
     image:
       src: >-
-        https://res.cloudinary.com/synopsys/image/upload/v1662800154/public_bear_mb3qau.png
+        https://res.cloudinary.com/synopsys/image/upload/v1662801489/df27ce753f06bafc8223890a0f50a63f_hfw2ud.jpg
       alt: Tina
     color: default
     _template: hero
