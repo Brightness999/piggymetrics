@@ -3,6 +3,7 @@ import { contentBlockSchema } from "../components/blocks/content";
 import { featureBlockSchema } from "../components/blocks/features";
 import { heroBlockSchema } from "../components/blocks/hero";
 import { testimonialBlockSchema } from "../components/blocks/testimonial";
+import { fullimageBlockSchema } from "../components/blocks/fullimage";
 import { iconSchema } from "../components/util/icon";
 import { client } from "./__generated__/client";
 
@@ -365,6 +366,7 @@ const schema = defineSchema({
             featureBlockSchema,
             contentBlockSchema,
             testimonialBlockSchema,
+            fullimageBlockSchema,
           ],
         },
       ],

@@ -1,5 +1,8 @@
 ---
 blocks:
+  - image:
+      src: /uploads/main.png
+    _template: fullimage
   - headline: Welcome to the Tina Starter
     text: >
       This project is set up to show you the basics of working with Tina. You're
